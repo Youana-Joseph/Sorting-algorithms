@@ -1,0 +1,3 @@
+char
+9
+N G A R I J T Q Y
